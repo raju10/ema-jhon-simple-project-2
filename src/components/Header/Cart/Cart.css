@@ -1,0 +1,13 @@
+.cart-container {
+  padding-left: 50px;
+}
+.cart-container h2 {
+  color: darkolivegreen;
+  text-align: center;
+  padding-left: 200px;
+  font-size: 30px;
+}
+#totalCost {
+  color: #ff5200;
+  font-size: 22px;
+}
